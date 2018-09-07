@@ -3,4 +3,4 @@ python-magic
 ipdb
 ipython
 configargparse
-telethon
+telethon==0.18.3
